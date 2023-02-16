@@ -1,7 +1,8 @@
 # Narrow One Zoom Tool
 A simple web extension that allows you to zoom in while playing Narrow One.
+Made with JavaScript.
 
-# How To Install
+# How to Intall the Tool
 
 1. Download **manifest.json** and **zoom.js** files:
 - To do so, head over to [this website](https://download-directory.github.io/)
@@ -16,6 +17,6 @@ A simple web extension that allows you to zoom in while playing Narrow One.
 
 If you have any issues, feel free to DM [bluey](https://discordapp.com/users/811660341297020929) on Discord.
 
-# How To Use
+# How to Use the Tool
 
 Head over to [Narrow One](https://narrow.one/), once you're in-game, hold right-click to zoom in! You can always edit the files to chage the zoom.
