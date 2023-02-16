@@ -10,6 +10,7 @@ A simple web extension that allows you to zoom in while playing Narrow One.
 - unzip the downloaded files
 2. Search for **chrome://extensions** in your web browser.
 3. On the top-left corner, you'll see a button named "Load unpacked", click on it.
+- If you don't see it, toggle deveoper mode on the top-right corner.
 4. Select the unzipped folder.
 5. You should be good to go!
 
