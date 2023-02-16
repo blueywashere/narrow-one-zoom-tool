@@ -14,3 +14,7 @@ A simple web extension that allows you to zoom in while playing Narrow One.
 5. You should be good to go!
 
 If you have any issues, feel free to DM [bluey](https://discordapp.com/users/811660341297020929) on Discord.
+
+# How To Use
+
+Head over to [Narrow One](https://narrow.one/), once you're in-game, hold right-click to zoom in! You can always edit the files to chage the zoom.
