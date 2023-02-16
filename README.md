@@ -19,4 +19,8 @@ If you have any issues, feel free to DM [bluey](https://discordapp.com/users/811
 
 # How to Use the Tool
 
-Head over to [Narrow One](https://narrow.one/), once you're in-game, hold right-click to zoom in! You can always edit the files to chage the zoom.
+Head over to [Narrow One](https://narrow.one/), once you're in-game, hold right-click to zoom in!
+
+# Edit the Zoom
+
+If you want to edit the zoom value (by deafult it's set to 2), you can do so by navigating the to unzipped folder you downloaded, opening it, select **zoom.js**, right-click it and open it with a code editor (I recommend [Visual Studio Code](https://code.visualstudio.com/download)). Go to line 6 and change the **zoom** value to whatever you'd like. Do NOT set it under 1 as will zoom out.
