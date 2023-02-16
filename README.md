@@ -2,7 +2,7 @@
 A simple web extension that allows you to zoom in while playing Narrow One.
 Made with JavaScript.
 
-# How to Intall the Tool
+# How to Install the Tool
 
 1. Download **manifest.json** and **zoom.js** files:
 - To do so, head over to [this website](https://download-directory.github.io/)
