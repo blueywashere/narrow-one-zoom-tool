@@ -17,6 +17,10 @@ Made with JavaScript.
 
 If you have any issues, feel free to DM [bluey](https://discordapp.com/users/811660341297020929) on Discord.
 
+# How to Install the No click hold version of the Tool
+
+The process is the same, except for the link you have to paste. Link for no hold version: https://github.com/blueywashere/narrow-one-zoom-tool/tree/main/zoom%20no%20hold
+
 # How to Uninstall the Tool
 
 Head over the **chrome://extensions**, and click on the **remove** button to remove the extension. You can also disable it by clicking in the toggle button.
