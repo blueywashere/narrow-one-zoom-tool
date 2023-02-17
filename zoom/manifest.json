@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Zoom Extension",
-    "description": "This extension allows you to zoom in on a website by holding the right-click button.",
+    "description": "This extension allows you to zoom in on narrow.one by holding the right-click button.",
     "version": "1.0",
     "content_scripts": [
         {
