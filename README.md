@@ -17,6 +17,10 @@ Made with JavaScript.
 
 If you have any issues, feel free to DM [bluey](https://discordapp.com/users/811660341297020929) on Discord.
 
+# How to Uninstall the Tool
+
+Head over the **chrome://extensions**, and click on the **remove** button to remove the extension. You can also disable it by clicking in the toggle button.
+
 # How to Use the Tool
 
 Head over to [Narrow One](https://narrow.one/), once you're in-game, hold right-click to zoom in!
