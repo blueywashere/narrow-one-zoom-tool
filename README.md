@@ -21,7 +21,9 @@ If you have any issues, feel free to DM [bluey](https://discordapp.com/users/811
 
 # How to Install the other versions of the tool
 
-The process is the same, except for the link you have to paste. Link for no-right-click-hold version: https://github.com/blueywashere/narrow-one-zoom-tool/tree/main/zoom%20no%20hold
+The process is the same, except for the link you have to paste.
+
+Link for no-right-click-hold version: https://github.com/blueywashere/narrow-one-zoom-tool/tree/main/zoom%20no%20hold
 
 E key hold version: https://github.com/blueywashere/narrow-one-zoom-tool/tree/main/zoom%20E%20key
 
