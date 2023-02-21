@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Zoom Extension (E key)",
+    "description": "This extension allows you to zoom in on a website by holding the E key.",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": ["https://narrow.one/"],
+            "js": ["zoom.js"]
+        }
+    ],
+    "permissions": ["activeTab"]
+}
