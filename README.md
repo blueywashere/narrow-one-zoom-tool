@@ -4,6 +4,8 @@ Made with JavaScript.
 
 # How to Install the Tool
 
+**Video tutorial availble [here](https://www.youtube.com/watch?v=aGStFX5HJfk).**
+
 1. Download **manifest.json** and **zoom.js** files:
 - To do so, head over to [this website](https://download-directory.github.io/)
 - paste in this link to download the files: https://github.com/blueywashere/narrow-one-zoom-tool/tree/main/zoom
