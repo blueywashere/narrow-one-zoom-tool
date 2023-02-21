@@ -19,7 +19,7 @@ Made with JavaScript.
 
 If you have any issues, feel free to DM [bluey](https://discordapp.com/users/811660341297020929) on Discord.
 
-# How to Install the No click hold version of the Tool
+# How to Install the other versions of the tool
 
 The process is the same, except for the link you have to paste. Link for no-right-click-hold version: https://github.com/blueywashere/narrow-one-zoom-tool/tree/main/zoom%20no%20hold
 
